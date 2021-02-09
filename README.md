@@ -1,4 +1,8 @@
 creating a new mode
  struggle for life
 fighting
-quick simple
+<<<<<<< HEAD
+Creating a new branch
+=======
+Creating a new branch
+>>>>>>> feature1
